@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "dhirajdkv.github.io/static/css/main.1d93e835.chunk.css",
-    "main.js": "dhirajdkv.github.io/static/js/main.4dad34b7.chunk.js",
-    "main.js.map": "dhirajdkv.github.io/static/js/main.4dad34b7.chunk.js.map",
-    "runtime~main.js": "dhirajdkv.github.io/static/js/runtime~main.f0ad3159.js",
-    "runtime~main.js.map": "dhirajdkv.github.io/static/js/runtime~main.f0ad3159.js.map",
-    "static/css/2.632acf66.chunk.css": "dhirajdkv.github.io/static/css/2.632acf66.chunk.css",
-    "static/js/2.2d4c0307.chunk.js": "dhirajdkv.github.io/static/js/2.2d4c0307.chunk.js",
-    "static/js/2.2d4c0307.chunk.js.map": "dhirajdkv.github.io/static/js/2.2d4c0307.chunk.js.map",
-    "index.html": "dhirajdkv.github.io/index.html",
-    "precache-manifest.250f6bd1fb55de93a9ad515a21cdaa55.js": "dhirajdkv.github.io/precache-manifest.250f6bd1fb55de93a9ad515a21cdaa55.js",
-    "service-worker.js": "dhirajdkv.github.io/service-worker.js",
-    "static/css/2.632acf66.chunk.css.map": "dhirajdkv.github.io/static/css/2.632acf66.chunk.css.map",
-    "static/css/main.1d93e835.chunk.css.map": "dhirajdkv.github.io/static/css/main.1d93e835.chunk.css.map",
-    "static/media/dhi2.jpg": "dhirajdkv.github.io/static/media/dhi2.77723fd6.jpg",
-    "static/media/all.min.css": "dhirajdkv.github.io/static/media/fa-solid-900.fdc155d5.svg"
+    "main.css": "/portfolio/static/css/main.33c0eb41.chunk.css",
+    "main.js": "/portfolio/static/js/main.0f787701.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0f787701.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.75bd9dfa.chunk.js": "/portfolio/static/js/2.75bd9dfa.chunk.js",
+    "static/js/2.75bd9dfa.chunk.js.map": "/portfolio/static/js/2.75bd9dfa.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.7cf3b6524a73f10c932f1ba77c3ec6c9.js": "/portfolio/precache-manifest.7cf3b6524a73f10c932f1ba77c3ec6c9.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.33c0eb41.chunk.css.map": "/portfolio/static/css/main.33c0eb41.chunk.css.map",
+    "static/media/dhi2.jpg": "/portfolio/static/media/dhi2.77723fd6.jpg",
+    "static/media/dhiraj-dommaraju-resume.pdf": "/portfolio/static/media/dhiraj-dommaraju-resume.ca065b65.pdf"
   }
 }
